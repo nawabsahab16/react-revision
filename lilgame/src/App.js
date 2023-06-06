@@ -1,10 +1,11 @@
 import './App.css';
 
+import {Box} from "./components/Box"
 
 function App() {
   return (
     <div className="App">
-      Hey There!!
+      <Box/>
     </div>
   );
 }
